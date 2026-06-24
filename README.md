@@ -41,19 +41,27 @@ The dataset contains customer demographics, account information, service subscri
 
 ### Features Include
 
-* Customer Demographics
-* Gender
-* Senior Citizen Status
-* Partner Information
-* Dependents
-* Tenure
-* Internet Services
-* Phone Services
-* Contract Type
-* Payment Method
-* Monthly Charges
-* Total Charges
-
+ *   gender            
+ *   SeniorCitizen    
+ *   Partner           
+ *   Dependents        
+ *   tenure            
+ *  PhoneService      
+ *  MultipleLines     
+ *   InternetService   
+ *   OnlineSecurity    
+ * OnlineBackup      
+ *  DeviceProtection  
+ *  TechSupport       
+ *  StreamingTV       
+ *  StreamingMovies   
+ *  Contract          
+ * PaperlessBilling  
+ * PaymentMethod     
+ * MonthlyCharges    
+ *  TotalCharges      
+ *  Churn           
+   
 ### Target Variable
 
 * Churn
